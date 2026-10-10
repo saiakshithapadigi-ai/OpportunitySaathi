@@ -1,4 +1,4 @@
-# OpportunitySaathi
+Testing automatic deployment with Netlify.# OpportunitySaathi
 
 Your student opportunity companion. OpportunitySaathi brings together real internships, scholarships, hackathons, free courses, fellowships and student programmes from organisations like Google, Microsoft, ISRO, NITI Aayog, Reliance Foundation, Chevening and NPTEL. Each listing has a **direct apply** button that goes to the official application page.
 
